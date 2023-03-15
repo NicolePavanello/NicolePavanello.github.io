@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Cardápio</h1>
+    <dl>
+        <dt><b>X-Burguer R$05,00</b></dt>
+        <dd>Pão de Hamburguer, hambúrguer e queijo</dd>
+        <dt><b>X-Salada R$10,00</b></dt>
+        <dd>Pão de hamburguer, hambúrguer, queijo, milho, alface, tomate e maionese</dd>
+        <dt><b>X-Egg R$15,00</b></dt>
+        <dd>Pão de hamburguer, hambúrguer, queijo, ovo e maionese</dd>
+    </dl>
+</body>
+</html>
