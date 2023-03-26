@@ -1,0 +1,33 @@
+* {
+    background-color: #c5e7c2;
+}
+
+.título-principal{
+    color:rgb(4, 88, 4);
+    display: flex;
+    justify-content: center;
+    background-color: #a5d8a0;
+}
+
+.div1{
+padding: 10px;
+display: inline-block;
+text-align: left;
+}
+.div2{
+    padding: 10px;
+    display: inline-block;
+    text-align: left;
+    }
+.div3{
+        padding: 10px;
+        display: inline-block;
+        text-align: left;
+        }
+        
+.geral{
+    text-align: center;
+}
+.titulo-secundario{
+color: rgb(14, 70, 14);
+}
