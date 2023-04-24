@@ -1,33 +1,24 @@
-* {
-    background-color: #c5e7c2;
-}
-
-.título-principal{
-    color:rgb(4, 88, 4);
-    display: flex;
+div {
+    font-size: 30px;
     justify-content: center;
-    background-color: #a5d8a0;
+    align-items: center;
+    display: flex;
 }
 
-.div1{
-padding: 10px;
-display: inline-block;
-text-align: left;
-}
-.div2{
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
     padding: 10px;
-    display: inline-block;
-    text-align: left;
-    }
-.div3{
-        padding: 10px;
-        display: inline-block;
-        text-align: left;
-        }
-        
-.geral{
     text-align: center;
 }
-.titulo-secundario{
-color: rgb(14, 70, 14);
+
+.Jan {
+    font-size: 40px;
+    background-color: #006400;
+    color: white;
+}
+
+th {
+    background-color: #daf7da;
+    padding: 20px;
 }
