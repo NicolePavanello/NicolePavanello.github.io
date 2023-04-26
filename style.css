@@ -1,4 +1,4 @@
-div {
+.Tabela {
     font-size: 30px;
     justify-content: center;
     align-items: center;
@@ -21,4 +21,21 @@ table, th, td {
 th {
     background-color: #daf7da;
     padding: 20px;
+}
+
+.Total {
+    display: flex;
+    flex-direction: row;
+}
+
+.Escrita {
+    flex-direction: column;
+    font-size: 18px;
+    margin: 5px;
+    justify-content: 10px;
+    padding: 1px;
+}
+
+.Logo {
+    margin-left: 575px;
 }
