@@ -29,7 +29,7 @@ th {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    background-color: #97f597;
+    background-color: #c6fac6;
     border-radius: 200px;
     margin-left: 120px;
     margin-right: 120px;
@@ -46,8 +46,8 @@ th {
 }
 
 .Logo {
-    width: 200px;
-    height: 190px;
+    width: 160px;
+    height: 150px;
 }
 
 p {
@@ -63,13 +63,11 @@ p {
 
 .EditMes {
     display: flex;
-    flex-direction: row;
-    justify-content: center;
     margin: 0 50px 0px 50px;
+    width: 80%;
 }
 
 .cont {
-    margin-left: 50px;
     margin-top: 10px;
+    width: 80%;
 }
-
